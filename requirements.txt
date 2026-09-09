@@ -1,0 +1,9 @@
+streamlit>=1.60
+pandas>=2.0
+openpyxl>=3.1
+reportlab>=4.0
+streamlit-drawable-canvas>=0.9.3
+numpy
+Pillow
+supabase>=2.0
+bcrypt>=4.0
